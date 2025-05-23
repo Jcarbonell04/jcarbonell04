@@ -19,7 +19,7 @@
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/jaedync/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jaedync/)
 - Email: jcarbonell3@nait.ca
 
 ---
