@@ -1,18 +1,27 @@
-## Hi there 👋 I'm Jaedyn!
+# Hi there, I'm Jaedyn! 👋
 
-<!--
-**Jcarbonell04/jcarbonell04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student at Northern Alberta Institute of Technology**  
+💻 **Program:** Computer Engineering Technology
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 👨‍💻 About Me
 
+- Currently studying Computer Engineering Technology at NAIT.
+- Passionate about computers, programming, and technology.
+- Always eager to learn new skills and take on exciting projects.
 
--->
+## 🛠️ Skills & Interests
+
+- Computer hardware and software fundamentals
+- Electronics and embedded systems
+- Networking & troubleshooting
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/jaedync/)
+- Email: jcarbonell3@nait.ca
+
+---
+
+*Thanks for visiting my profile!*
